@@ -34,5 +34,5 @@ Building this project helped reinforce:
 - **Menu-driven CLI Design**: Handling user input via console menus and switch-case logic.
 - **Collections Framework**: Efficient use of lists to track inventory and cart items.
 - **Code Modularity**: Separating responsibilities across classes for better readability and maintainability.
-- **Input Validation**: Safely handling unexpected or invalid user inputs.
+- **Input Validation**: Safely handling invalid user inputs.
 
